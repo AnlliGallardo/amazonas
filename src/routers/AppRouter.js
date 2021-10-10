@@ -33,7 +33,7 @@ export default function AppRouter() {
   const dispatch = useDispatch()
 
   useEffect(() => {
-    onAuthStateChanged( async(user) => {
+    onAuthStateChanged(auth, async(user) => {
         if (user?.uid) {
             dispatch(loginSincrono(user.uid, user.displayName))
             setsIsLoogedIn(true)
