@@ -1,0 +1,106 @@
+{
+    "tarjetas" : [
+    {
+        "id": "1",
+        "name":"Batidora", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633116732/41E1XJOPPEL_xjyv5w.jpg", 
+        "description":"Batidoras industriales para reposteria."
+    },
+    {
+        "id": "2",
+        "name":"Cafetera", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633116733/cafetera_knqhjc.jpg", 
+        "description":"Cafetera."
+    },
+    {
+        "id": "3",
+        "name":"Freidora", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117173/freidoraaire_rsdcax.jpg", 
+        "description":"Freidora."
+    },
+    {
+        "id": "4",
+        "name":"Lavadora", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117391/lavadora_kyyo7j.png", 
+        "description":"Lavadora 20kilos."
+    },
+    {
+        "id": "5",
+        "name":"Licuadora", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117389/licuadora_szktnt.jpg", 
+        "description":"Licuadora 6 velocidades."
+    },
+    {
+        "id": "6",
+        "name":"Microonda", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117389/microondas_zdyx49.jpg", 
+        "description":"Microondas."
+    },
+    {
+        "id": "7",
+        "name":"Articulos del hogar ", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117227/hogar1_kanuru.jpg", 
+        "description":"Juego de Ollas antiaderente."
+    },
+    {
+        "id": "8",
+        "name":"Articulos del hogar ", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117227/hogar2_uhjxtj.jpg", 
+        "description":"Combo 5x1."
+    },
+    {
+        "id": "9",
+        "name":"Articulos del hogar ", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117227/hogar3_sdzfbg.jpg", 
+        "description":"Ambientador olor a lavanda."
+    },
+    {
+        "id": "10",
+        "name":"Articulos del hogar ", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117227/hogar4_pek9ub.jpg", 
+        "description":"Jarron."
+    },
+    {
+        "id": "11",
+        "name":"Articulos del hogar", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117227/hogar5_tgfabn.jpg", 
+        "description":"Adorno."
+    },
+    {
+        "id": "12",
+        "name":"Ropa", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117561/ropa_yxfu1i.jpg", 
+        "description":"Ropa deportiva."
+    },
+    {
+        "id": "13",
+        "name":"Ropa deportiva", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117561/ropa1_fsjmdb.jpg", 
+        "description":"Combo de ropa deportiva."
+    },
+    {
+        "id": "14",
+        "name":"Ropa#2", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117562/ropa2_cevw2f.jpg", 
+        "description":"Combo de ropa deportiva para Caballeros."
+    },
+    {
+        "id": "15",
+        "name":"Ropa#3", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117561/ropa3_p1hpad.jpg", 
+        "description":"Sudadera."
+    },
+    {
+        "id": "16",
+        "name":"Ropa#4", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117561/ropa4_mmervh.jpg", 
+        "description":"Ropa deprotiva."
+    },
+    {
+        "id": "17",
+        "name":"Ropa-Deportiva", 
+        "poster":"https://res.cloudinary.com/djlvgbuji/image/upload/v1633117562/ropadeportiva_iyfsut.jpg", 
+        "description":"Ropa deprotiva."
+    }
+]
+}

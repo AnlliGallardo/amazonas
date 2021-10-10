@@ -1,0 +1,254 @@
+/* Navbar */
+
+.navbar{
+    background-color: #131921;
+    height: 74px;
+}
+
+.amazonas{
+    width: 126px; 
+    height: 40px;
+    margin-left: -75px;
+    margin-top: 5px;
+}
+
+.hello{
+    margin-top: -50px;
+    margin-left: 180px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+        
+}
+
+.icon{
+    color: white;
+    margin-left: 155px;
+    margin-top: -10px;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* white */
+    color: #FFFFFF;
+}
+
+.dropdown-toggle{
+    margin-left: 18px;
+    background: #F3F3F3;
+    margin-top: -35px;
+    height: 40px;
+    border-radius: 8px 0px 0px 8px;
+    width: 215px;
+}
+
+.search{
+    margin-left: 499px;
+    margin-top: -48px;
+    height: 40px;
+    width: 330px;
+    border-radius: 0px 0px;
+}
+
+.iconsearch{
+    background-color: #F0AD64;
+    flex-direction: row;
+    width: 48px;
+    height: 40px;
+    text-align: justify;
+    margin-left: -10px;
+    border-radius: 0px 8px 8px 0px;
+}
+
+.helloiden{
+    margin-left: 850px;
+    color: white;
+    margin-top: -40px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.dropdown-toggle2{
+    margin-left: 25px;
+    margin-top: 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: white;
+}
+
+.devoluciones{
+    margin-left: 960px;
+    color: white;
+    margin-top: -32px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.pedidos{
+    margin-left: 1000px;
+    color: white;
+    margin-top: -112px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.carrito{
+    width: 40px; 
+    height: 40px;
+    margin-left: 1050px;
+    margin-top: -60px;
+}
+
+.car{
+    margin-left: 1070px;
+    color: white;
+    margin-top: -30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/* Navbar2 */
+
+.nav2{
+    color: white;
+    margin-top: 7px;
+    margin-left: 20px;
+}
+
+/* Login */
+
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.principal{
+    height: 500px;
+}
+
+.campo{
+    margin-left: 500px;
+    margin-top: 80px;
+    padding-left: -510px;
+}
+
+.formBasicEmail{
+    width: 400px;
+    height: 40px;
+    margin-left: 480px;
+    padding-left: 10px;
+    border-color: black;
+}
+
+.contraseña{
+    margin-left: 500px;
+    margin-top: 10px;
+    padding-left: -510px;
+}
+
+.formBasicPassword{
+    width: 400px;
+    height: 40px;
+    margin-left: 480px;
+    padding-left: 10px;
+    border-color: black;
+}
+
+.bootsend{
+    margin-left: 640px;
+    margin-top: 20px;
+}
+
+.google-btn{
+    margin-left: 470px;
+    padding-top: 30px;
+}
+
+.facebook-btn{
+    margin-left: 550px;
+    margin-top: -35px;
+}
+
+.registro{
+    margin-left: 630px;
+    margin-top: 30px;
+}
+
+/* REGISTRO */
+
+.campname{
+    margin-left: 420px;
+    margin-top: 80px;   
+}
+
+.formBasicName{
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.campoemail{
+    margin-left: 430px;
+    margin-top: 10px;
+}
+
+.formEmailRegistro{
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.camppassword{
+    margin-left: 399px;
+    margin-top: 10px;
+}
+
+.formBasicPasswordRegistro{
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.camprepita{
+    margin-left: 353px;
+    padding-top: 10px;
+}
+
+.formBasicRepitPassword{
+    width: 400px;
+    height: 40px;
+    margin-left: 50px;
+    border-color: black;
+    padding-left: 10px;
+}
+
+.registrosend{
+    margin-left: 630px;
+    margin-top: 10px;
+}
+
+.voolver{
+    margin-left: 20px;
+    margin-top: 10px;
+}
