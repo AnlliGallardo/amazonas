@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 
-import {BsGeoAlt} from "react-icons/bs";
-import {BiSearchAlt} from "react-icons/bi";
 import { startLogout } from '../actions/actionLogin';
 import { useDispatch } from 'react-redux';
 import { getAuth, onAuthStateChanged } from '@firebase/auth';
