@@ -66,13 +66,13 @@ export const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarNavDarkDropdown">
       <ul className="navbar-nav">
       <li className="nav-item dropdown">
-           <a className="nav-link dropdown" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+           <Link className="nav-link dropdown" to="/" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Listas y Cuentas
-           </a>
+           </Link>
            <ul className="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-            <li><a className="dropdown-item" href="#">Action</a></li>
-            <li><a className="dropdown-item" href="#">Another action</a></li>
-            <li><a className="dropdown-item" href="#">Something else here</a></li>
+            <li><Link className="dropdown-item" to="/">Action</Link></li>
+            <li><Link className="dropdown-item" to="/">Another action</Link></li>
+            <li><Link className="dropdown-item" to="/">Something else here</Link></li>
           </ul>
         </li>
       </ul>

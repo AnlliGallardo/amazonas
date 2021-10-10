@@ -9,9 +9,9 @@ const mapStyles = {
 class Mapa extends Component {
 
   constructor(posicion1) {
-    super(this.props);
+    super(posicion1);
     console.log(posicion1)
-    console.log(this.props.history.location.posicion1.center.lat)
+    // console.log(history.location.posicion1.center.lat)
     
     this.state = {
       stores: [{lat: 4.60971, lng: -74.08175},

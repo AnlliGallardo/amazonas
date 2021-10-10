@@ -1,7 +1,8 @@
 import React from 'react'
-import { getAuth, signOut } from 'firebase/auth'
+import { getAuth } from 'firebase/auth'
 import { useDispatch, useSelector } from 'react-redux'
 import { startLogout } from '../actions/actionLogin'
+import { Link } from '@mui/material'
 
 const Navbar1 = () => {
     const auth = getAuth()
@@ -12,9 +13,9 @@ const Navbar1 = () => {
         <nav className="navbar navbar-light bg-light">
             <div className="container-fluid">
                 
-                <a className="navbar-brand h3" href="#">
+                <Link className="navbar-brand h3" to="/">
                     Usuario: {name}
-                    </a>
+                    </Link>
                 <button className="navbar-brand btn btn-outline-danger" 
                 onClick={() =>dispatch(startLogout())}>
                  Logout

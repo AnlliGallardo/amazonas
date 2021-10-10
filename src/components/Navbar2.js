@@ -27,16 +27,16 @@ export const Navbar2 = () => {
         <>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container-fluid nav">
-                    <a className="navbar-brand" to="#"></a>
+                    <Link className="navbar-brand" to="/"></Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDarkDropdown" aria-controls="navbarNavDarkDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNavDarkDropdown">
                     <ul className="navbar-nav">
                         <li className="nav-item dropdown">
-                        <a className="nav-link dropdown" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <Link className="nav-link dropdown" to="/" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Todo
-                        </a>
+                        </Link>
                         <ul className="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
                             <li><Link className="dropdown-item" to="/">Electrodomesticos</Link></li>
                             <li><Link className="dropdown-item" to="/">Ropa</Link></li>

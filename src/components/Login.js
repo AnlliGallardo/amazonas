@@ -11,7 +11,7 @@ function Login() {
 
     const dispatch = useDispatch();
 
-    const [ values, handleInputChange, reset ] = useForm({
+    const [ values, handleInputChange ] = useForm({
         Email: '',
         Password: ''
     })
@@ -22,6 +22,7 @@ function Login() {
        e.preventDefault();
        dispatch(loginSincrono(Email,Password)); 
        dispatch(loginEmailPassword(Email,Password));
+       
     }
 
     const handleGoogle = () => {
